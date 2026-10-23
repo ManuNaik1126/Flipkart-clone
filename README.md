@@ -4,7 +4,7 @@ A front-end clone of Flipkart's e-commerce website, built using **HTML and CSS**
 
 ## 🌐 Live Demo
 
-🔗 **Live Website:** [View Flipkart Clone](YOUR_GITHUB_PAGES_LINK)
+🔗 **Live Website:** [Flipkart-Clone](https://manunaik1126.github.io/Flipkart-clone/)
 
 ## ✨ Features
 
